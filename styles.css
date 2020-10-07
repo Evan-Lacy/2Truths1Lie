@@ -1,0 +1,31 @@
+.aHeader {
+    color:lightgreen;
+    text-align: center;
+    
+}
+
+#wrapper{
+    display: flex;
+    background-color: gray;
+}
+
+.Story{
+    color:blue;
+}
+
+.text {
+    color: red;
+}
+
+.sections{
+    height:250px;
+    width: 250px;
+    bottom:50px;
+    border-width:15px;
+    border-style: solid;
+    text-align: center;
+    background-color: lightgray;
+    border-radius: 15px;
+    /* font-size: 12px;
+    padding:15px; */
+}
